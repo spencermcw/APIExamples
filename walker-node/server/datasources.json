@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "walkerds": {
+    "host": "SPENCERMCW",
+    "port": 1433,
+    "url": "",
+    "database": "WalkerDB",
+    "password": "saP4ssword",
+    "name": "walkerds",
+    "user": "sa",
+    "connector": "mssql",
+    "schema": "dbo"
+  }
+}
